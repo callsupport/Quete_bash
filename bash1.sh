@@ -1,4 +1,4 @@
-# Demander à l'utilisateur la limite
+# Demander la limite
 read -p "Entrez une limite : " limite
 
 # Vérifier si la limite est un nombre entier positif
